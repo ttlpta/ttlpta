@@ -1,5 +1,5 @@
-### Hi there 👋
 
+#HacktoberfestCompleted2023
 <!--
 **ttlpta/ttlpta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![An image of @ttlpta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ttlpta)](https://holopin.io/@ttlpta)
+
+
+:point_right: DM : skype: ttlpta.g :point_left:
