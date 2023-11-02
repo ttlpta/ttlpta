@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 [![An image of @ttlpta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ttlpta)](https://holopin.io/@ttlpta)
 
 
-:point_right: DM : skype - ttlpta.g :point_left:
+:point_right: DM me: skype - ttlpta.g :point_left:
